@@ -1,6 +1,6 @@
 # 🚖 Ola Ride Booking Analysis | Excel + SQL + Power BI
 
-An end-to-end data analysis of **20,408 Ola ride bookings from July 2024**. I cleaned the raw data in Excel, solved 10 business problems in MySQL, and built a 5-page Power BI dashboard to understand bookings, cancellations, revenue and ratings.
+An end-to-end data analysis of **20,408 Ola ride bookings for July 2024**. I cleaned the raw data in Excel, solved 10 business problems in MySQL, and built a 5-page Power BI dashboard to understand bookings, cancellations, revenue and ratings.
 
 ## 📌 Table of Contents
 - [Project Workflow](#-project-workflow)
